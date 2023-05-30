@@ -25,7 +25,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Deployment Link:
- - Link : https://contact-list-using-react.vercel.app/
+ - Link : https://employee-review-sys.vercel.app/
 
 
 
